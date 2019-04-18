@@ -33,24 +33,39 @@ public class RadixSort {
      * @param exp
      */
    private static void countSort(int arr[], int exp) {
+       /**
+        * 对数组按照"某个位数"进行排序(桶排序)
+        *
+        * 参数说明：
+        *     a -- 数组
+        *     exp -- 位数。对数组a按照该指数进行排序。
+        *
+        * 例如，对于数组a={50, 3, 542, 745, 2014, 154, 63, 616}；
+        *    (01) 当exp=1表示按照"个位"对数组a进行排序
+        *    (02) 当exp=10表示按照"十位"对数组a进行排序
+        *    (03) 当exp=100表示按照"百位"对数组a进行排序
+        *    ...
+        */
         int n = arr.length;
+        //结果数组（排好序）
         int output[] = new int[n];
         int i;
         int[] count = new int[10];
         count[0] = 0;
+        //存放数据出现的次数
         for (i = 0; i < n; i++) {
             count[(arr[i] / exp) % 10]++;
         }
-
+        //更改count[i]。目的是让更改后的count[i]的值，是该数据在output[]相应的位置。
         for (i = 1; i < 10; i++) {
             count[i] += count[i - 1];
         }
-
+        //将数据放到结果数组中
         for (i = n - 1; i >= 0; i--) {
             output[count[ (arr[i]/exp)%10 ] - 1] = arr[i];
             count[ (arr[i]/exp)%10 ]--;
         }
-
+        //将排好序的数据放回到原来的数组上
         for (i = 0; i < n; i++) {
             arr[i] = output[i];
         }
