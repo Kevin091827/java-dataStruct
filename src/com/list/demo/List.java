@@ -22,29 +22,26 @@ public interface List {
 	boolean isEmpty();
 	
 	// 判断线性表是否包含元素e
-	boolean contain(Object e);
+	boolean contain(int e);
 	
 	// 返回e元素的序号
-	int indexOf(Object e);
+	int indexOf(int e);
 	
 	// 在序号为i的位置添加元素e
-	void add(Object e,int i);
+	void add(int e,int i);
 	
 	// 在线性表末尾添加元素e
-	void addEnd(Object e);
+	void addEnd(int e);
 	
 	// 将a插入到e之前的位置
-	void addBefore(Object e,Object a);
+	void addBefore(int e,int a);
 	
 	// 将a插入到e之后的位置
-	void addAfter(Object e,Object a);
+	void addAfter(int e,int a);
 	
 	// 删除指定序号的元素
-	Object remove(int i);
-	
-	// 删除线性表中元素是e的元素
-	boolean remove(Object e);
+	boolean remove(int i);
 	
 	// 将序号为i的元素修改为e
-	Object replace(int i,Object e);
+	int replace(int i,int e);
 }
