@@ -35,6 +35,16 @@ public class Base64Demo {
     }
 
     /**
+     * Base64加密
+     * @param data
+     * @return
+     */
+    public static String EncodeBase64(byte[] data){
+        return Base64.encode(data);
+    }
+
+
+    /**
      * Base64解密
      * @param data
      * @return
@@ -51,5 +61,14 @@ public class Base64Demo {
             e.printStackTrace();
         }
         return result;
+    }
+
+    /**
+     * Base64解密
+     * @param data
+     * @return
+     */
+    public static byte[] decodeBase64(String data){
+        return Base64.decode(data);
     }
 }

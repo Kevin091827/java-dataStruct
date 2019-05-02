@@ -18,7 +18,7 @@ import java.security.SecureRandom;
  */
 public class AesDemo {
 
-    //指定字符编码
+     //指定字符编码
     static Charset charset = Charset.forName("UTF-8");
 
     /**
