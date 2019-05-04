@@ -7,8 +7,12 @@
     <list default="true" id="edde5b08-eb6a-425c-90ba-1257943d0f1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/crypto/demo/AesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/crypto/demo/AesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/sort/demo/BucketSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/demo/BucketSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/BinarySearchTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +25,12 @@
     <session id="-1121552019">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -33,8 +38,9 @@
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.52" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,7 +48,7 @@
           <entry key="class" value="1" />
           <entry key="classpath" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="47" />
+          <entry key="java" value="48" />
           <entry key="md" value="17" />
           <entry key="project" value="2" />
         </counts>
@@ -52,40 +58,27 @@
           <entry key="CLASS" value="1" />
           <entry key="Eclipse" value="3" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="47" />
+          <entry key="JAVA" value="48" />
           <entry key="Markdown" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3219" />
-          <entry key="md" value="642" />
+          <entry key="java" value="3519" />
+          <entry key="md" value="806" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3219" />
-          <entry key="Markdown" value="640" />
-          <entry key="YAML" value="2" />
+          <entry key="JAVA" value="3519" />
+          <entry key="Markdown" value="785" />
+          <entry key="YAML" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Md5Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-161">
-              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="38" />
-              <folding>
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/stack/demo/ArrayStack.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Sha1Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="759">
               <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,8 +109,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+              <first_editor relative-caret-position="434">
+                <caret line="108" column="35" lean-forward="true" selection-start-line="108" selection-start-column="35" selection-end-line="108" selection-end-column="35" />
               </first_editor>
               <second_editor />
             </state>
@@ -125,10 +118,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="142" column="25" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/AesDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="977">
-              <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+            <state relative-caret-position="1449">
+              <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,24 +146,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="1380">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#953#954#0" expanded="true" />
-                <element signature="e#981#982#0" expanded="true" />
-                <element signature="e#1709#1710#0" expanded="true" />
-                <element signature="e#1746#1747#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/com/sun/org/apache/xerces/internal/impl/dv/util/Base64.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4025">
-              <caret line="199" column="31" selection-start-line="199" selection-start-column="25" selection-end-line="199" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -219,7 +213,6 @@
         <option value="$PROJECT_DIR$/src/com/stack/demo/ListStack.java" />
         <option value="$PROJECT_DIR$/src/com/tree/demo/AvlNode.java" />
         <option value="$PROJECT_DIR$/src/com/tree/demo/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/tree/demo/BinaryTreeNode.java" />
         <option value="$PROJECT_DIR$/src/com/stack/demo/ArrayStack.java" />
         <option value="$PROJECT_DIR$/src/com/sort/demo/SelectSort.java" />
@@ -239,6 +232,7 @@
         <option value="$PROJECT_DIR$/src/com/crypto/demo/Md5Demo.java" />
         <option value="$PROJECT_DIR$/src/com/crypto/demo/AesDemo.java" />
         <option value="$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -274,9 +268,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,16 +287,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556773466740" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556988759151" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Java/commons-codec-1.9.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -326,13 +327,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AesDemo">
+  <component name="RunManager" selected="Application.BinaryTree">
     <configuration name="AesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.crypto.demo.AesDemo" />
       <module name="数据结构" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.crypto.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tree.demo.BinaryTree" />
+      <module name="数据结构" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tree.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,9 +384,11 @@
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.RadixSort" />
       <item itemvalue="Application.AesDemo" />
+      <item itemvalue="Application.BinaryTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryTree" />
         <item itemvalue="Application.AesDemo" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.RadixSort" />
@@ -400,18 +416,20 @@
       <workItem from="1556773505538" duration="687000" />
       <workItem from="1556774588284" duration="1043000" />
       <workItem from="1556775714944" duration="159000" />
-      <workItem from="1556777905696" duration="2552000" />
+      <workItem from="1556777905696" duration="3993000" />
+      <workItem from="1556900384762" duration="102000" />
+      <workItem from="1556986368874" duration="2172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24988000" />
+    <option name="totallyTimeSpent" value="28703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16901408" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17303823" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -421,14 +439,14 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2592068" />
+      <window_info anchor="bottom" id="Run" order="2" weight="1.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.0" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41301274" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.40651557" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -492,13 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -669,6 +680,17 @@
     <entry file="file://$PROJECT_DIR$/.project">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Md5Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stack/demo/ArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1357">
@@ -676,8 +698,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Sha1Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/AesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="68" column="7" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/com/sun/org/apache/xerces/internal/impl/dv/util/Base64.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -707,47 +759,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="385">
+          <caret line="142" column="25" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#953#954#0" expanded="true" />
-            <element signature="e#981#982#0" expanded="true" />
-            <element signature="e#1709#1710#0" expanded="true" />
-            <element signature="e#1746#1747#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Md5Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="38" />
-          <folding>
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Sha1Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/AesDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="977">
-          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -755,8 +774,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+          <first_editor relative-caret-position="434">
+            <caret line="108" column="35" lean-forward="true" selection-start-line="108" selection-start-column="35" selection-end-line="108" selection-end-column="35" />
           </first_editor>
           <second_editor />
         </state>

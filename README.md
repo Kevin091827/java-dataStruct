@@ -22,6 +22,7 @@ src:
 src：
   com.sort.demo ：排序算法
   com.crypto.demo:加密算法（仅仅整理了常用的几种加密算法）
+  com.tree.demo:树（完善了二叉树的广度和深度优先遍历）
 ```
 
 ### java排序算法总结
@@ -92,5 +93,21 @@ src：
 * 对称加密
 
 * 非对称加密
+
+### 二叉树广度和深度优先遍历
+```yaml
+com
+  .tree
+    .demo
+      .BinaryTree: 二叉树
+        .breadthOrder: 广度优先遍历
+        .preOrder: 深度优先遍历 --- 前序遍历（非递归）
+        .preOrder2：深度优先遍历 --- 前序遍历（递归）
+        .order：深度优先遍历 --- 中序遍历（非递归）
+        .order2：深度优先遍历 --- 中序遍历（递归）
+        .proOrder：深度优先遍历 --- 后序遍历（非递归）
+        .proOrder2：深度优先遍历 --- 后序遍历（递归）
+```
+
     
 

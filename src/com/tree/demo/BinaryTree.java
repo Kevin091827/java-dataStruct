@@ -1,6 +1,8 @@
 package com.tree.demo;
 
+import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.Queue;
 import java.util.Stack;
 
 /**
@@ -24,6 +26,34 @@ public class BinaryTree {
 	public void setRoot(BinaryTreeNode root) {
 		this.root = root;
 	}
+
+	/**
+	 * 广度优先遍历
+	 * @param root
+	 */
+	private void breadthOrder(BinaryTreeNode root){
+
+		ArrayList<Integer> list = new ArrayList<>();
+		Queue<BinaryTreeNode> queue = new ArrayDeque<>();
+		if(root != null){
+			queue.add(root);
+
+			while(!queue.isEmpty()){
+				root = queue.remove();
+				list.add(root.getValue());
+				if(root.getLeft() != null){
+					queue.add(root.getLeft());
+				}
+				if(root.getRight() != null){
+					queue.add(root.getRight());
+				}
+			}
+		}
+		for(Integer i : list) {
+			System.out.println(i);
+		}
+	}
+
 	
 	/**
 	 * 前序遍历非递归实现
@@ -185,5 +215,7 @@ public class BinaryTree {
 		binaryTree.proOrder(binaryTree);
 		System.out.println("********后序遍历递归**********");
 		binaryTree.proOrder2(binaryTree.root);
+		System.out.println("********广度优先遍历**********");
+		binaryTree.breadthOrder(binaryTree.root);
 	}
 }
