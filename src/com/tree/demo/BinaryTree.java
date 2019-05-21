@@ -2,8 +2,11 @@ package com.tree.demo;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.Queue;
 import java.util.Stack;
+import java.util.Timer;
+import java.util.TimerTask;
 
 /**
  * @Description:    二叉树
@@ -217,5 +220,14 @@ public class BinaryTree {
 		binaryTree.proOrder2(binaryTree.root);
 		System.out.println("********广度优先遍历**********");
 		binaryTree.breadthOrder(binaryTree.root);
+		TimerTask timerTask = new TimerTask() {
+            @Override
+            public void run() {
+            	System.out.println("java定时任务--时间："+new Date());
+            }
+        };
+
+        Timer timer = new Timer();
+        timer.schedule(timerTask,10,3*1000);
 	}
 }
