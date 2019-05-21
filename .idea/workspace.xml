@@ -4,12 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/sort/demo/SelectSort.java" line="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edde5b08-eb6a-425c-90ba-1257943d0f1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/AvlNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/AvlNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java" afterDir="false" />
-    </list>
+    <list default="true" id="edde5b08-eb6a-425c-90ba-1257943d0f1d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +41,7 @@
           <entry key="classpath" value="1" />
           <entry key="iml" value="2" />
           <entry key="java" value="50" />
-          <entry key="md" value="17" />
+          <entry key="md" value="18" />
           <entry key="project" value="2" />
         </counts>
       </usages-collector>
@@ -56,7 +51,7 @@
           <entry key="Eclipse" value="3" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="JAVA" value="50" />
-          <entry key="Markdown" value="17" />
+          <entry key="Markdown" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -76,18 +71,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Sha1Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数据结构.iml">
           <provider selected="true" editor-type-id="text-editor" />
@@ -114,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/graph/demo/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+            <state relative-caret-position="1966">
+              <caret line="116" column="26" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#948#949#0" expanded="true" />
@@ -140,6 +123,16 @@
                 <element signature="e#3522#3523#0" expanded="true" />
                 <element signature="e#3560#3561#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/graph/demo/graph.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -454,12 +447,12 @@
       <workItem from="1556900384762" duration="102000" />
       <workItem from="1556986368874" duration="2272000" />
       <workItem from="1558456561336" duration="2737000" />
-      <workItem from="1558461466746" duration="1033000" />
+      <workItem from="1558461466746" duration="1307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32573000" />
+    <option name="totallyTimeSpent" value="32847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -482,7 +475,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.0" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.02549575" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5439094" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -820,8 +813,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/graph/demo/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+        <state relative-caret-position="1966">
+          <caret line="116" column="26" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#948#949#0" expanded="true" />
@@ -843,6 +836,14 @@
             <element signature="e#3522#3523#0" expanded="true" />
             <element signature="e#3560#3561#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/graph/demo/graph.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
