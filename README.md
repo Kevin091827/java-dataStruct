@@ -14,7 +14,9 @@ src:
      com.stack.demo ：栈
 
      com.tree.demo ： 树
-
+     
+     com.array.demo : 数组 
+    
 ```
 
 已完善模块：
@@ -24,6 +26,7 @@ src：
   com.crypto.demo:加密算法（仅仅整理了常用的几种加密算法）
   com.tree.demo:树（完善了二叉树的广度和深度优先遍历）
   com.graph.com:图（仅仅整理了图的基本架构和广度，深度遍历）
+  com.array.demo：数组（增加了稀疏数组）
 ```
 
 ### java排序算法总结
