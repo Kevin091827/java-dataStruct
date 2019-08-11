@@ -11,7 +11,7 @@ import java.io.*;
      * @UpdateRemark:   修改内容
      * @Version: 1.0
      */
-    public class SparseArray {
+public class SparseArray {
 
         /**
          * <p>
@@ -186,5 +186,4 @@ import java.io.*;
             }
             return sparseArray;
         }
-
-    }
+}
