@@ -175,7 +175,7 @@ import java.io.*;
          */
         public static int[][] sparseArrayFromIo(int lineNums) throws Exception {
 
-            FileReader reader = new FileReader("Save1.data");
+            FileReader reader = new FileReader("sparseArray.txt");
             int getNum = 0;
             int[][] sparseArray = new int[lineNums][3];
             for(int i = 0;i < lineNums;i++) {
