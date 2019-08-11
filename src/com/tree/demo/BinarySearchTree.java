@@ -67,8 +67,6 @@ public class BinarySearchTree<AnyType extends Comparable<? super AnyType>>{
 		public void setRight(Node<AnyType> right) {
 			this.right = right;
 		}
-		
-		
  	}
 	
 	

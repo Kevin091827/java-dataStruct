@@ -1,5 +1,8 @@
 package com.tree.demo;
 
+import com.sun.jmx.remote.internal.ArrayQueue;
+import jdk.nashorn.internal.ir.BinaryNode;
+
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Date;
@@ -186,7 +189,83 @@ public class BinaryTree {
 			System.out.println(root.getValue());
 		}
 	}
-	
+
+
+	/**
+	 * 计算二叉树深度
+	 * 【递归实现】
+	 * @param root
+	 * @return
+	 */
+	public int depthOfBinaryTree(BinaryTreeNode root){
+		if(root == null){
+			return 0;
+		}else{
+			return 1+Math.max(depthOfBinaryTree(root.getRight()),depthOfBinaryTree(root.getRight()));
+		}
+	}
+
+	/**
+	 * 计算二叉树深度
+	 * 【非递归实现】
+	 * @param root
+	 * @return
+	 */
+	public int depthOfBinaryTree2(BinaryTreeNode root){
+		if(root == null){
+			return 0;
+		}
+		ArrayDeque<BinaryTreeNode> queue = new ArrayDeque<>();
+		int depth = 0;
+		queue.add(root);
+		while(!queue.isEmpty()){
+			int size = queue.size();
+			for(int i = 0;i < size;i++){
+				BinaryTreeNode node = queue.removeFirst();
+				if(node.getLeft() != null){
+					queue.add(node.getLeft());
+				}
+				if(node.getRight() != null){
+					queue.add(node.getRight());
+				}
+			}
+			depth++;
+		}
+		return depth;
+	}
+
+	/**
+	 * 镜像二叉树
+	 * 【递归实现】
+	 * @param root
+	 */
+	public void mirrle(BinaryTreeNode root){
+		if(root == null){
+			return;
+		}
+		BinaryTreeNode left = root.getLeft();
+		BinaryTreeNode right = root.getRight();
+		BinaryTreeNode tmp = left;
+		left = right;
+		right = tmp;
+		mirrle(root.getLeft());
+		mirrle(root.getRight());
+	}
+
+	/**
+	 * 计算二叉树的节点数
+	 * 【递归实现】
+	 * @param root
+	 * @return
+	 */
+	public int nodeNum(BinaryTreeNode root){
+		if(root == null){
+			return 0;
+		}
+		return 1+nodeNum(root.getLeft())+nodeNum(root.getRight());
+	}
+
+
 	public static void main(String[] args) {
 		
 		BinaryTreeNode root = new BinaryTreeNode(21);
@@ -206,28 +285,21 @@ public class BinaryTree {
 		rightNode.setLeft(new BinaryTreeNode(4));
 		rightNode.setRight(new BinaryTreeNode(5));
 	
-		System.out.println("********前序遍历非递归**********");
-		binaryTree.preOrder2(binaryTree.root);
-		System.out.println("********前序遍历递归**********");
-		binaryTree.preOrder(binaryTree);
-		System.out.println("********中序遍历非递归**********");
-		binaryTree.order(binaryTree);
-		System.out.println("********中序遍历递归**********");
-		binaryTree.order2(binaryTree.root);
-		System.out.println("********后序遍历非递归**********");
-		binaryTree.proOrder(binaryTree);
-		System.out.println("********后序遍历递归**********");
-		binaryTree.proOrder2(binaryTree.root);
-		System.out.println("********广度优先遍历**********");
-		binaryTree.breadthOrder(binaryTree.root);
-		TimerTask timerTask = new TimerTask() {
-            @Override
-            public void run() {
-            	System.out.println("java定时任务--时间："+new Date());
-            }
-        };
-
-        Timer timer = new Timer();
-        timer.schedule(timerTask,10,3*1000);
+//		System.out.println("********前序遍历非递归**********");
+//		binaryTree.preOrder2(binaryTree.root);
+//		System.out.println("********前序遍历递归**********");
+//		binaryTree.preOrder(binaryTree);
+//		System.out.println("********中序遍历非递归**********");
+//		binaryTree.order(binaryTree);
+//		System.out.println("********中序遍历递归**********");
+//		binaryTree.order2(binaryTree.root);
+//		System.out.println("********后序遍历非递归**********");
+//		binaryTree.proOrder(binaryTree);
+//		System.out.println("********后序遍历递归**********");
+//		binaryTree.proOrder2(binaryTree.root);
+//		System.out.println("********广度优先遍历**********");
+//		binaryTree.breadthOrder(binaryTree.root);
+		System.out.println("二叉树深度：-------》》》》"+binaryTree.depthOfBinaryTree2(root));
+		System.out.println("二叉树节点个数：-------》》》》"+binaryTree.nodeNum(root));
 	}
 }

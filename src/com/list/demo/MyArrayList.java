@@ -34,7 +34,9 @@ public class MyArrayList implements List{
      * @param size
      */
     public MyArrayList(int size){
-        array = new int[size];
+        if(size == 0){
+
+        }
     }
 
     /**

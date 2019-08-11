@@ -1,6 +1,8 @@
 package com.array.demo;
 
-    /**
+import java.io.*;
+
+/**
      * @Description:    稀疏数组 ---> 数组中有很多无效数据，压缩数组
      * @Author:         Kevin
      * @CreateDate:     2019/7/2 22:39
@@ -95,9 +97,13 @@ package com.array.demo;
             for(int i = 0;i<sparseArray.length;i++){
                 System.out.printf("%d%d%d\t",sparseArray[i][0],sparseArray[i][1],sparseArray[i][2]);
             }
-
+            try {
+                //将稀疏数组写入文件
+                sparseArrayToIo(sparseArray);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
             System.out.println("----------->稀疏数组转回原始数组");
-
             /**
              * 恢复的二维数组
              * <p>
@@ -114,7 +120,6 @@ package com.array.demo;
              *     0 0 0 0 0 0 0 0 0 0 0
              * </p>
              */
-
             int[][] oldArray = new int[sparseArray[0][0]][sparseArray[0][1]];
             //将原来非0的数填充回去
             for(int i = 1;i<=count;i++){
@@ -126,5 +131,60 @@ package com.array.demo;
                     System.out.printf("%d\t",item);
                 }
             }
+            System.out.println("----------->稀疏数组转回原始数组");
+            //读取磁盘中的稀疏数组
+            try {
+                int[][] sparseArrayFromIo = sparseArrayFromIo(3);
+                int[][] newOldArray = new int[sparseArrayFromIo[0][0]][sparseArrayFromIo[0][1]];
+                //将原来非0的数填充回去
+                for(int i = 1;i<=count;i++){
+                    newOldArray[sparseArrayFromIo[i][0]][sparseArrayFromIo[i][1]] = sparseArrayFromIo[i][2];
+                }
+                //遍历刚转回的原始数组
+                for(int[] row : newOldArray){
+                    for(int item : row){
+                        System.out.printf("%d\t",item);
+                    }
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
+
+        /**
+         * 将稀疏数组存入磁盘（文件）
+         *
+         */
+        public static void sparseArrayToIo(int[][] sparseArray) throws Exception {
+            File file = new File("sparseArray.txt");
+            if(!file.exists()){
+                file.createNewFile();
+            }
+            FileWriter writer = new FileWriter(file);
+            for(int i =0; i < sparseArray.length; i++) {
+                for(int j = 0; j < 3; j++) {
+                    writer.write(sparseArray[i][j]);
+                }
+            }
+            writer.flush();
+        }
+
+        /**
+         * 读文件获取稀疏数组(获取指定行数的稀疏数组)【不足】
+         * @return
+         */
+        public static int[][] sparseArrayFromIo(int lineNums) throws Exception {
+
+            FileReader reader = new FileReader("Save1.data");
+            int getNum = 0;
+            int[][] sparseArray = new int[lineNums][3];
+            for(int i = 0;i < lineNums;i++) {
+                for (int j = 0; j < 3; j++) {
+                    getNum = reader.read();
+                    sparseArray[i][j] = getNum;
+                }
+            }
+            return sparseArray;
+        }
+
     }
