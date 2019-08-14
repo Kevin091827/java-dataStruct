@@ -6,39 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="edde5b08-eb6a-425c-90ba-1257943d0f1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/array/demo/SparseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/crypto/demo/AesDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/crypto/demo/AesDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/crypto/demo/Base64Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/crypto/demo/Base64Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/crypto/demo/Md5Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/crypto/demo/Md5Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/crypto/demo/RSA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/crypto/demo/Sha1Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/crypto/demo/Sha1Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/graph/demo/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/graph/demo/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/graph/demo/Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/graph/demo/Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/hash/demo/HashDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/hash/demo/HashDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/hash/demo/MySeparateHashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/hash/demo/MySeparateHashTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/heap/demo/BinaryHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/heap/demo/BinaryHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/heap/demo/LeftHeap$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/heap/demo/LeftHeap$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/heap/demo/LeftHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/heap/demo/LeftHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/list/demo/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/list/demo/List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/list/demo/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/list/demo/MyArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/list/demo/test$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/list/demo/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/sort/demo/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/demo/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/sort/demo/BucketSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/demo/BucketSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/sort/demo/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/demo/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/sort/demo/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/demo/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/sort/demo/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/demo/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/sort/demo/RadixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/demo/RadixSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/sort/demo/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/demo/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/stack/demo/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/demo/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/stack/demo/ListStack$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/demo/ListStack$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/stack/demo/ListStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/demo/ListStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/stack/demo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/demo/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/AvlNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/AvlNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/BinarySearchTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/demo/BinaryTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tree/demo/AvlNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tree/demo/BinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tree/demo/BinaryTreeNode.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,8 +55,8 @@
           <entry key="classpath" value="1" />
           <entry key="data" value="2" />
           <entry key="iml" value="2" />
-          <entry key="java" value="84" />
-          <entry key="md" value="20" />
+          <entry key="java" value="97" />
+          <entry key="md" value="22" />
           <entry key="project" value="2" />
           <entry key="txt" value="9" />
         </counts>
@@ -94,70 +66,49 @@
           <entry key="CLASS" value="1" />
           <entry key="Eclipse" value="3" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="84" />
-          <entry key="Markdown" value="20" />
+          <entry key="JAVA" value="97" />
+          <entry key="Markdown" value="22" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12852" />
-          <entry key="md" value="909" />
+          <entry key="java" value="12865" />
+          <entry key="md" value="1027" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12852" />
-          <entry key="Markdown" value="883" />
-          <entry key="YAML" value="26" />
+          <entry key="JAVA" value="12865" />
+          <entry key="Markdown" value="998" />
+          <entry key="YAML" value="29" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/string_match/demo/Kmp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/string_match/demo/字符串匹配算法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-2829">
+                <folding>
+                  <element signature="e#0#686#0" expanded="true" />
+                  <element signature="e#0#614#0" expanded="true" />
+                  <element signature="e#0#1239#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/string_match/demo/Bf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Md5Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparseArray.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1380">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="227">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="e#1021#1022#0" expanded="true" />
                 <element signature="e#1063#1064#0" expanded="true" />
@@ -168,47 +119,83 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/heap/demo/LeftHeap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="322">
+                <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tree/demo/AvlNode.java">
+        <entry file="file://$PROJECT_DIR$/src/com/tree/demo/平衡树/AvlNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tree/demo/平衡树/AvlTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tree/demo/BinaryTreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tree/demo/线索二叉树/ThreadedBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tree/demo/线索二叉树/ThreadedTreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tree/demo/二叉搜索树/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-23">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tree/demo/二叉树实现/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2714">
-              <caret line="143" column="44" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Iterable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72289">
-              <caret line="3214" column="20" selection-start-line="3214" selection-start-column="20" selection-end-line="3214" selection-end-column="20" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -264,11 +251,9 @@
         <option value="$PROJECT_DIR$/src/com/list/demo/List.java" />
         <option value="$PROJECT_DIR$/src/com/crypto/demo/Sha1Demo.java" />
         <option value="$PROJECT_DIR$/src/com/crypto/demo/Md5Demo.java" />
-        <option value="$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java" />
         <option value="$PROJECT_DIR$/src/com/graph/demo/Vertex.java" />
         <option value="$PROJECT_DIR$/src/com/graph/demo/Graph.java" />
         <option value="$PROJECT_DIR$/src/com/graph/demo/graph.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/list/demo/MyArrayList.java" />
         <option value="$PROJECT_DIR$/src/com/list/demo/test.java" />
         <option value="$PROJECT_DIR$/src/com/tree/demo/BinaryTree.java" />
@@ -279,6 +264,15 @@
         <option value="$PROJECT_DIR$/src/com/array/demo/SparseArray.java" />
         <option value="$PROJECT_DIR$/src/com/string_match/demo/Bf.java" />
         <option value="$PROJECT_DIR$/src/com/string_match/demo/Kmp.java" />
+        <option value="$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/tree/demo/树/平衡树/AvlNode.java" />
+        <option value="$PROJECT_DIR$/src/com/树/平衡树/AvlNode.java" />
+        <option value="$PROJECT_DIR$/src/com/树/二叉搜索树/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/树/二叉树实现/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/树/平衡树/AvlTree.java" />
+        <option value="$PROJECT_DIR$/src/com/树/线索二叉树/ThreadedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/tree/demo/线索二叉树/ThreadedTreeNode.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -299,7 +293,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
@@ -331,13 +325,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="数据结构" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -349,7 +336,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565763393276" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565764018146" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Java/commons-codec-1.9.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -362,6 +349,10 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.crypto.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\12642\eclipse-workspace\数据结构\src\com\tree\demo" />
+      <recent name="C:\Users\12642\eclipse-workspace\数据结构\src\com\string_match\demo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -503,18 +494,17 @@
       <workItem from="1564752160348" duration="30000" />
       <workItem from="1565451585694" duration="4223000" />
       <workItem from="1565486449886" duration="4718000" />
-      <workItem from="1565747792083" duration="2608000" />
+      <workItem from="1565747792083" duration="3152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123039000" />
+    <option name="totallyTimeSpent" value="123583000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16431925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16431925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -524,14 +514,14 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.05382436" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53966004" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4815864" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.0" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.24362606" />
+      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25070822" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -568,80 +558,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sort/demo/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1415">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sort/demo/insertSort.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1676">
-            <caret line="92" column="56" selection-start-line="92" selection-start-column="56" selection-end-line="92" selection-end-column="56" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sort/demo/bubbleSort.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-184">
-            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sort/demo/mergeSort.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="815">
-            <caret line="92" column="35" lean-forward="true" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sort/demo/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sort/demo/selectSort.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="503">
-            <caret line="115" column="63" selection-start-line="115" selection-start-column="63" selection-end-line="115" selection-end-column="63" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/Java/commons-codec-1.9.jar!/org/apache/commons/codec/digest/DigestUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3618">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/security/MessageDigest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2542">
-          <caret line="105" column="22" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.project">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/com/sun/org/apache/xerces/internal/impl/dv/util/Base64.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4025">
@@ -725,13 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Sha1Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3818">
@@ -802,9 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/RSA.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1115">
@@ -826,16 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="644">
-            <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/DataInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -851,33 +747,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Md5Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sparseArray.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
-            <element signature="e#1705#1706#0" expanded="true" />
-            <element signature="e#1747#1748#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/heap/demo/LeftHeap.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -923,8 +794,143 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/string_match/demo/Kmp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="725">
           <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Sha1Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/RSA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Md5Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crypto/demo/Base64Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1705#1706#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/string_match/demo/字符串匹配算法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2829">
+            <folding>
+              <element signature="e#0#686#0" expanded="true" />
+              <element signature="e#0#614#0" expanded="true" />
+              <element signature="e#0#1239#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/树/平衡树/AvlNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/树/二叉搜索树/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/二叉搜索树/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/二叉树实现/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/平衡树/AvlNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/平衡树/AvlTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/线索二叉树/ThreadedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/BinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/demo/线索二叉树/ThreadedTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="322">
+            <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

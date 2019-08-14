@@ -1,57 +1,55 @@
 package com.tree.demo;
 
 /**
- * @Description:    二叉树节点类
+ * @Description:    节点类
  * @Author:         Kevin
- * @CreateDate:     2019/4/18 14:33
+ * @CreateDate:     2019/7/24 0:13
  * @UpdateUser:     Kevin
- * @UpdateDate:     2019/4/18 14:33
+ * @UpdateDate:     2019/7/24 0:13
  * @UpdateRemark:   修改内容
  * @Version: 1.0
  */
 public class BinaryTreeNode {
 
-	//值
-	private int value;
-	//左子节点
-	private BinaryTreeNode left;
-	//右子节点
-	private BinaryTreeNode right;
+    //节点值
+    private int element;
+    //左子节点
+    private BinaryTreeNode left;
+    //右子节点
+    private BinaryTreeNode right;
 
-	public BinaryTreeNode(int value, BinaryTreeNode left, BinaryTreeNode right) {
-		super();
-		this.value = value;
-		this.left = left;
-		this.right = right;
-	}
+    public BinaryTreeNode(int element,BinaryTreeNode left,BinaryTreeNode right){
 
-	public BinaryTreeNode(int value) {
-		super();
-		this.value = value;
-	}
+        this.element = element;
+        this.right = right;
+        this.left = left;
+    }
 
-	public int getValue() {
-		return value;
-	}
+    public BinaryTreeNode(int element) {
+        this.element = element;
+    }
 
-	public void setValue(int value) {
-		this.value = value;
-	}
+    public int getElement() {
+        return element;
+    }
 
-	public BinaryTreeNode getLeft() {
-		return left;
-	}
+    public void setElement(int element) {
+        this.element = element;
+    }
 
-	public void setLeft(BinaryTreeNode left) {
-		this.left = left;
-	}
+    public BinaryTreeNode getLeft() {
+        return left;
+    }
 
-	public BinaryTreeNode getRight() {
-		return right;
-	}
+    public void setLeft(BinaryTreeNode left) {
+        this.left = left;
+    }
 
-	public void setRight(BinaryTreeNode right) {
-		this.right = right;
-	}
-	
+    public BinaryTreeNode getRight() {
+        return right;
+    }
+
+    public void setRight(BinaryTreeNode right) {
+        this.right = right;
+    }
 }
