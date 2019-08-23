@@ -19,9 +19,9 @@ public class BubbleSort {
     public static void bubleSort(int[] a){
         int tmp;
         //第一层循环是比较的轮数
-        for(int i = 0;i<a.length;i++){
+        for(int i = 0;i<a.length-1;i++){
             //第二层循环是每一轮比较的次数
-            for(int j = i;j<a.length-i-1;j++){
+            for(int j = 0;j<a.length-i-1;j++){
                 //交换
                 if(a[j] > a[j+1]){
                     tmp = a[j];
